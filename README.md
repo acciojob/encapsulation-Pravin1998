@@ -17,7 +17,7 @@ STEPS:
  * Task 4:
  * try, setting a value to name, by directly accessing it using obj and also try printing it
  * 
- * Error: you might seen some error, please not it down in commnets
+ * Error: you might seen some error, please not it down in comments
  * 
  * Task 5:
  * try implementing getter and setters member function in class RWOnly 

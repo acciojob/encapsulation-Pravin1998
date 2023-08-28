@@ -4,11 +4,11 @@ public class RWOnly {
 
     private String name;
 
-    public void set(String name){
-        this.name = name;
-    }
-    public String get(){
+    public String getName() {
         return name;
     }
-    
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }
